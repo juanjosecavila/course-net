@@ -7846,11 +7846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\juanjosecavila\\Net_Course\\course_net\\course_net.csproj",
+      "projectUniqueName": "C:\\Code\\juanjosecavila\\course-net\\course_net\\course_net.csproj",
       "projectName": "course_net",
-      "projectPath": "C:\\Code\\juanjosecavila\\Net_Course\\course_net\\course_net.csproj",
+      "projectPath": "C:\\Code\\juanjosecavila\\course-net\\course_net\\course_net.csproj",
       "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\juanjosecavila\\Net_Course\\course_net\\obj\\",
+      "outputPath": "C:\\Code\\juanjosecavila\\course-net\\course_net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7929,7 +7929,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\juanjosecavila\\Net_Course\\course_net.Models\\course_net.Models.csproj": {}
+    "C:\\Code\\juanjosecavila\\course-net\\course_net.Models\\course_net.Models.csproj": {}
   },
   "projects": {
-    "C:\\Code\\juanjosecavila\\Net_Course\\course_net.Models\\course_net.Models.csproj": {
+    "C:\\Code\\juanjosecavila\\course-net\\course_net.Models\\course_net.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\juanjosecavila\\Net_Course\\course_net.Models\\course_net.Models.csproj",
+        "projectUniqueName": "C:\\Code\\juanjosecavila\\course-net\\course_net.Models\\course_net.Models.csproj",
         "projectName": "course_net.Models",
-        "projectPath": "C:\\Code\\juanjosecavila\\Net_Course\\course_net.Models\\course_net.Models.csproj",
+        "projectPath": "C:\\Code\\juanjosecavila\\course-net\\course_net.Models\\course_net.Models.csproj",
         "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\juanjosecavila\\Net_Course\\course_net.Models\\obj\\",
+        "outputPath": "C:\\Code\\juanjosecavila\\course-net\\course_net.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
